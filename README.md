@@ -1,10 +1,17 @@
 # Ignite DT Money
 
-#### Projeto desenvolvido no programa Ignite da Rocketseat para Gestão Financeira.
+<p align="center">Projeto desenvolvido no programa Ignite da Rocketseat para Gestão Financeira.</p>
 
 ## Tabela de Conteúdo
-- [Features](#features)
-- [Telas](#telas)
+- [Ignite DT Money](#ignite-dt-money)
+  - [Tabela de Conteúdo](#tabela-de-conteúdo)
+    - [Features](#features)
+    - [Telas](#telas)
+    - [Pré-requisitos](#pré-requisitos)
+    - [Instalação](#instalação)
+    - [Como usar](#como-usar)
+    - [Tecnologias e Ferramentas](#tecnologias-e-ferramentas)
+    - [Author](#author)
 
 ### Features
 
@@ -32,14 +39,14 @@
 
 <img style="margin: 0 15px !important" src="./github/images/img5.png" alt="Tela inicial web" height="425"> 
 
-### Pré-requisitos
+### [Pré-requisitos](#pre-requisitos)
 
 Antes de você começar você irá precisar:
 
 - [Node.js](https://nodejs.org/pt-br/download/) ou [Yarn](https://yarnpkg.com/)
 - [Git](https://git-scm.com/)
 
-### Instalação
+### [Instalação](#instalacao)
 
 ```bash
 # Clone do repositório
@@ -68,7 +75,6 @@ Este projeto utiliza:
 - [Styled-Components](https://styled-components.com/)
 
 ### Author
----
 
 <a href="https://github.com/daya-diaz">
  <img  src="https://avatars.githubusercontent.com/u/56565748?v=4" width="100px;" alt="" style="border-radius: 50%;"/>
