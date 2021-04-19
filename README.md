@@ -39,7 +39,7 @@ $ cd ignite-dtmoney
 $ npm install ou yarn
 ```
 
-##[Como usar](#como-usar)
+### [Como usar](#como-usar)
 
 Este projeto está utilizando [React.js](https://reactjs.org/). Deste modo, para startar o projeto, em ambiente de desenvolvimento, deve-se executar o seguinte comando `npm run start` ou `yarn start`.
 
