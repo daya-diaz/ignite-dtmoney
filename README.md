@@ -16,6 +16,22 @@
 
 ### Telas
 
+* Tela Inicial
+
+<img style="margin: 0 15px !important" src="./github/images/img2.png" alt="Tela inicial web" height="425">
+
+* Tela de Cadastro
+
+<img style="margin: 0 15px !important" src="./github/images/img3.png" alt="Tela inicial web" height="425">
+
+* Cadastro de Saída
+
+<img style="margin: 0 15px !important" src="./github/images/img4.png" alt="Tela inicial web" height="425">
+
+* Tela com registro da saída
+
+<img style="margin: 0 15px !important" src="./github/images/img5.png" alt="Tela inicial web" height="425"> 
+
 ### Pré-requisitos
 
 Antes de você começar você irá precisar:
