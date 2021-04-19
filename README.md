@@ -7,8 +7,8 @@
 
 ### Features
 
-[x] Criar repositório
-[x] Desenvolver layout
-[x] Criar contexto para trabalhar com transações
-[x] Desenvolver componentes estilizados
-[x] Criação de fake APIs
+- [x] Criar repositório
+- [x] Desenvolver layout
+- [x] Criar contexto para trabalhar com transações
+- [x] Desenvolver componentes estilizados
+- [x] Criação de fake APIs
